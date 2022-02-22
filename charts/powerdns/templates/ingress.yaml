@@ -5,7 +5,7 @@ apiVersion: extensions/v1beta1
 kind: Ingress
 metadata:
   name: {{ $fullName }}
-annotations:
+  annotations:
     kubernetes.io/ingress.class: public
 spec:
   rules:
