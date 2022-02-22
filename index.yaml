@@ -9,6 +9,6 @@ entries:
       name: powerdns
       type: application
       urls:
-        - https://github.com/actovos-consulting-group/helm-charts/releases/download/powerdns-0.1.12/powerdns-0.1.12.tgz
+        - https://github.com/actovos-consulting-group/helm-charts/archive/refs/tags/powerdns-0.1.12.tar.gz
       version: 0.1.12
 generated: "2022-02-22T10:56:56.894201-06:00"
